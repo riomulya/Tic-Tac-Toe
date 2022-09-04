@@ -10,7 +10,7 @@
   display: none;
 }
 
-body div.backdrop {
+body #backdrop {
   position: fixed;
   top: 0;
   left: 0;

@@ -1,7 +1,7 @@
 #active-game {
   text-align: center;
   margin: 2rem 0 5rem 0; /* top right bottom left */
-  /* display: none; */
+  display: none;
 }
 
 #game-over {
@@ -49,7 +49,7 @@
 }
 
 #game-board li:hover {
-  background-color: rgb(112, 13, 204);
+  background-color: rgb(62, 2, 118);
 }
 
 #game-board li.disabled {
